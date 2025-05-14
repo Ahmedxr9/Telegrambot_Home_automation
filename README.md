@@ -7,7 +7,7 @@ This sketch can serve as a foundation for more advanced IoT and automation syste
 
 ---
 
-## 🔧 Features
+## Features
 
 - Control devices (e.g., lamps) remotely via Telegram
 - Monitor ambient **light levels** using an LDR sensor
@@ -17,7 +17,7 @@ This sketch can serve as a foundation for more advanced IoT and automation syste
 
 ---
 
-## 🧰 Required Hardware
+##  Required Hardware
 
 | Component        | Quantity | Notes                                    |
 |------------------|----------|------------------------------------------|
@@ -33,7 +33,7 @@ This sketch can serve as a foundation for more advanced IoT and automation syste
 
 ---
 
-## 📲 Telegram Bot Setup
+##  Telegram Bot Setup
 
 1. Search for `@BotFather` in Telegram.
 2. Create a new bot with `/newbot` and follow the instructions.
