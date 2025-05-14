@@ -3,7 +3,6 @@
 
 This project is a **template-based smart control system** using an ESP8266 microcontroller. It connects to a Telegram bot, allowing users to remotely control devices, monitor environmental data (light level and motion), and send an emergency **Morse code SOS signal** using a simple LED.
 
-This sketch can serve as a foundation for more advanced IoT and automation systems.
 
 ---
 
